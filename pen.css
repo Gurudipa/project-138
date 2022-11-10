@@ -1,0 +1,30 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.link{
+    background: rgb(14, 1, 8);
+    border-radius: 20px;
+    width: 80px;
+    float: right;
+    
+    
+}
+.heading:hover{
+    font-size: large;
+}
+
+.heading{
+    width: 100%;
+    font-size: large;
+    margin-top: 0px;
+}
+
+canvas
+{
+ border: 10px,wheat;
+ border-radius: 7px 7px 7px gray;
+}
